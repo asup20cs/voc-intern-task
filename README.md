@@ -31,3 +31,5 @@ npm run build
 ```
 
 You can preview the production build with `npm run preview`.
+
+To change the theme, change the `data-theme` value in `/src/app.html` to `mydark` or any  other theme in daisy ui.
